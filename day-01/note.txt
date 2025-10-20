@@ -1,0 +1,5 @@
+perbedaan cara me load file javascipt.js :
+-tag script di head
+-tag script di body
+-asycn
+-defer
