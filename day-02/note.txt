@@ -1,0 +1,6 @@
+pahami proses yang berjalan dibalik eksekusi kode javascript
+
+1. tokenizing
+2. parsing
+3.compilation
+4. executing
